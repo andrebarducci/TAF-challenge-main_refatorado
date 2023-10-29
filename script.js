@@ -46,7 +46,7 @@ function verficaAbs () {
 function testTAF(distance, time, gender, pushUps, abs) {
   passed = false;
 
-  function showMessage(testTAF) {
+  function showMessage(passouNoTeste) {
     console.log("passou no teste!".toUpperCase());
   }
   
